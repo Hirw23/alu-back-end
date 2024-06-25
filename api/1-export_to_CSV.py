@@ -9,7 +9,7 @@ import sys
 
 if __name__ == "__main__":
     # Get the user ID from the command-line arguments provided to the script
-    user_id = sys.argv[1] 
+    user_id = sys.argv[1]
     # Define the base URL for the JSON API
     url = "https://jsonplaceholder.typicode.com/"
 
